@@ -1,4 +1,4 @@
-import Test from "./Test";
+
 import "./app.scss";
 import Contact from "./components/contact/Contact";
 import Cursor from "./components/cursor/Cursor";
@@ -36,9 +36,7 @@ const App = () => {
       <section id="Contact">
         <Contact />
       </section>
-
-      {/* <Test />
-<Test /> */}
+     
     </div>
   );
 };
