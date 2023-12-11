@@ -16,12 +16,14 @@ const items=[
         title:"Food delivery app",
         img:"https://images.pexels.com/photos/3023476/pexels-photo-3023476.jpeg?auto=compress&cs=tinysrgb&w=600",
         decc:"Duo gubergren at et dolore sed tempor, stet elitr et diam elitr dolor et magna sadipscing ipsum, aliquyam kasd sea.",
+        demo:"https://bistro-boss-ed605.web.app/"
     },
     {
         id:3,
         title:"Notion clone",
         img:"https://images.pexels.com/photos/18176526/pexels-photo-18176526/free-photo-of-books-in-bookstore.jpeg?auto=compress&cs=tinysrgb&w=400",
         decc:"Duo gubergren at et dolore sed tempor, stet elitr et diam elitr dolor et magna sadipscing ipsum, aliquyam kasd sea.",
+        demo:"https://note-taking-app-nine-blue.vercel.app/"
     },
     {
         id:4,
