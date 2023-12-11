@@ -6,10 +6,11 @@ import {motion,useScroll ,useSpring, useTransform} from "framer-motion";
 const items=[
     {
         id:1,
-        title:"Air bnb clone",
-        img:"https://images.pexels.com/photos/18704675/pexels-photo-18704675/free-photo-of-buildings-by-river-in-amasya-in-turkey.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        title:"Notion clone",
+        img:"https://images.pexels.com/photos/18176526/pexels-photo-18176526/free-photo-of-books-in-bookstore.jpeg?auto=compress&cs=tinysrgb&w=400",
         decc:"Duo gubergren at et dolore sed tempor, stet elitr et diam elitr dolor et magna sadipscing ipsum, aliquyam kasd sea.",
-        demo:"https://booking-site-visit.vercel.app/"
+        demo:"https://note-taking-app-nine-blue.vercel.app/"
+ 
     },
     {
         id:2,
@@ -19,11 +20,11 @@ const items=[
         demo:"https://bistro-boss-ed605.web.app/"
     },
     {
-        id:3,
-        title:"Notion clone",
-        img:"https://images.pexels.com/photos/18176526/pexels-photo-18176526/free-photo-of-books-in-bookstore.jpeg?auto=compress&cs=tinysrgb&w=400",
+               id:3,
+        title:"Air bnb clone",
+        img:"https://images.pexels.com/photos/18704675/pexels-photo-18704675/free-photo-of-buildings-by-river-in-amasya-in-turkey.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
         decc:"Duo gubergren at et dolore sed tempor, stet elitr et diam elitr dolor et magna sadipscing ipsum, aliquyam kasd sea.",
-        demo:"https://note-taking-app-nine-blue.vercel.app/"
+        demo:"https://booking-site-visit.vercel.app/"
     },
     {
         id:4,
