@@ -27,7 +27,7 @@ const yText=useTransform(scrollYProgress, [0,1], ["0%","500%"]);
     }}
      > 
      <motion.h1 style={{y:yText}}>
-        {type==="services" ? "What We Do?" : "What We Did?"}</motion.h1>
+        {type==="services" ? "What I Do?" : "What I Did?"}</motion.h1>
      <motion.div className="mountains">
 
      </motion.div>

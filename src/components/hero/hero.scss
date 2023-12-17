@@ -20,7 +20,7 @@
             height: 100%;
             display: flex;
             flex-direction: column;
-            justify-content: center;
+            align-items: center;
             gap: 40px;
 
             @include mobile {
@@ -72,32 +72,32 @@
     }
 
 
-    .imageContainer{
-        height: 100%;
-        position: absolute;
-        top: 0;
-        right: 0;
+    // .imageContainer{
+    //     height: 100%;
+    //     position: absolute;
+    //     top: 0;
+    //     right: 0;
 
       
-        @include mobile {
-            height: 50%;
-            width: 100%;
-             top: auto;
-            bottom: 0;
-        }
+    //     @include mobile {
+    //         height: 50%;
+    //         width: 100%;
+    //          top: auto;
+    //         bottom: 0;
+    //     }
 
-        img{
-            height: 100%;
-            width: 100%;
-            object-fit: cover;
+    //     img{
+    //         height: 100%;
+    //         width: 100%;
+    //         object-fit: cover;
 
-            @include mobile {
-                height: 100%;
-                width: 100%;
-                object-fit: contain;
-            }
-        }
-    }
+    //         @include mobile {
+    //             height: 100%;
+    //             width: 100%;
+    //             object-fit: contain;
+    //         }
+    //     }
+    // }
 
     .slidingTextContainer{
         position: absolute;

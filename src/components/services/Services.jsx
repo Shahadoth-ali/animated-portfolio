@@ -68,7 +68,7 @@ const isInView=useInView(ref,{margin:"-100px"})
         <h1>
            <motion.b whileHover={{color:"orange"}}>For Your </motion.b>Bussiness.
             </h1>
-            <button>WHAT WE DO?</button>
+            <button>WHAT I DO?</button>
        </div>
       </motion.div>
 
