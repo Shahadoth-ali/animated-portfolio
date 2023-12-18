@@ -38,9 +38,9 @@ const App = () => {
         <Contact />
       </section>
 
-      <section id="About">
+      {/* <section id="About">
         <About/>
-      </section>
+      </section> */}
       
      
     </div>

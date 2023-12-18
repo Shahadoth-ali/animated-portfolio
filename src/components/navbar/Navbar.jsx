@@ -17,9 +17,15 @@ const Navbar = () => {
         </motion.span>
        <div className="social">
         <a href="#">
-            <img src="/facebook.png" alt="" />
-            <img src="/instagram.png" alt="" />
-            <img src="/youtube.png" alt="" />
+           <a href="https://www.facebook.com/shddon.shddon/">
+           <img src="/facebook.png" alt="" />
+           </a>
+           <a href="https://www.linkedin.com/in/md-shahadoth-ali-91878a2a4/">
+           <img src="/linkedin.png" alt="" />
+           </a>
+           <a href="https://www.showwcase.com/shahadoth">
+           <img src="/showwcase.png" alt="" />
+           </a>
             <img src="/dribbble.png" alt="" />
         </a>
        </div>

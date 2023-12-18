@@ -64,8 +64,8 @@ const Hero = () => {
                 <a href="/#Contact">
                 <motion.button variants={textVariants}>Contact Me</motion.button> 
                 </a>
-                <a href="/#About">
-                <motion.button variants={textVariants}>About Me</motion.button> 
+                <a href="https://drive.google.com/file/d/1QuZgvXY3vgr1gwY6Umd_xFyLQpZNBT9H/view?usp=sharing">
+                <motion.button variants={textVariants}>Resume</motion.button> 
                 </a>
                 </motion.div>
             <a href="/#Services">

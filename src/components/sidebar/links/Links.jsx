@@ -33,7 +33,7 @@ const items=[
     "Services",
     "Portfolio",
     "Contact",
-    "About",
+    // "About",
 ]
 
 
