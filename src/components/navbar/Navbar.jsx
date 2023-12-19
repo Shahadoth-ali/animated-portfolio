@@ -23,10 +23,13 @@ const Navbar = () => {
            <a href="https://www.linkedin.com/in/md-shahadoth-ali-91878a2a4/">
            <img src="/linkedin.png" alt="" />
            </a>
+           <a href="https://github.com/Shahadoth-ali">
+           <img src="/git.png" alt="" />
+           </a>
            <a href="https://www.showwcase.com/shahadoth">
            <img src="/showwcase.png" alt="" />
            </a>
-            <img src="/dribbble.png" alt="" />
+            
         </a>
        </div>
      </div>
