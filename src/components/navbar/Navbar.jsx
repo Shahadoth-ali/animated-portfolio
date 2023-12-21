@@ -29,7 +29,7 @@ const Navbar = () => {
            <a href="https://www.showwcase.com/shahadoth">
            <img src="/showwcase.png" alt="" />
            </a>
-          
+        
         </a>
        </div>
      </div>
