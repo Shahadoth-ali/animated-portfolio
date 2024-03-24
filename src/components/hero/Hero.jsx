@@ -1,7 +1,7 @@
 import "./hero.scss";
 import { motion } from "framer-motion";
 
-
+//start
 const textVariants={
     initial:{
         x:-500,
